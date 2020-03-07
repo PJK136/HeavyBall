@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>boule.svg</file>
+        <file>bad_job.svg</file>
+        <file>blink_bad_job.svg</file>
+        <file>blink_good_job.svg</file>
+        <file>blink_well_well_job.svg</file>
+        <file>well_well_job.svg</file>
+        <file>good_job.svg</file>
+        <file>balance_centre.svg</file>
+        <file>balance_plateau_droite.svg</file>
+        <file>balance_plateau_gauche.svg</file>
+        <file>damn.svg</file>
+        <file>balance_tige.svg</file>
+    </qresource>
+</RCC>
